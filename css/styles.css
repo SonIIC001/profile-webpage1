@@ -1,0 +1,61 @@
+html{
+  background: url("../images/background3.png") no-repeat center fixed;
+  background-size: cover;
+}
+.hole-body{
+  text-align: center;
+  position: relative;
+}
+.first-container{
+  width:30%;
+  position: absolute;
+  top: 0;
+
+}
+.second-container{
+  width: 30%;
+  position: absolute;
+  top: 200px;
+  left:35%;
+}
+.third-container{
+  width: 30%;
+  position: absolute;
+  top: 320px;
+  left:35%;
+}
+.forth-container{
+  position:absolute;
+  left: 46%;
+  top: 430px;
+}
+.fifth-container{
+  position: absolute;
+  top:600px;
+  left:47%;
+  display: inline;
+}
+.h1{
+  font-family: 'Sacramento', cursive;
+  color: white;
+  font-size: 50px;
+}
+p{
+  color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+.mahmoud-photo{
+  width: 130px;
+  height: 130px;
+  display: block;
+}
+img{
+  width: 30px;
+}
+hr{
+  position:absolute;
+  top: 650px;
+  width: 500px;
+  left:33%;
+}
